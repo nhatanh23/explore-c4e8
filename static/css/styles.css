@@ -1,0 +1,48 @@
+div {
+    color: #333333;
+    background-color: pink;
+    font-size: 26px;
+    font-family: "Comic Sans MS";
+    font-weight: lighter;
+    text-decoration: line-through;
+    width: 200px;
+    margin: auto;
+}
+
+.red_css{
+    color: red;
+}
+
+.blue_css{
+    color: blue;
+}
+
+.yellor_background{
+    background:yellow;
+}
+
+.title:hover{
+    text-decoration: underline;
+}
+
+a {
+    color: darkgoldenrod;
+    font-size: 40px;
+    text-decoration: none;
+    transition: 0.5s all;
+}
+a:hover,
+a:active{
+    color: deepskyblue;
+    font-size: 10px;
+}
+
+h1{
+    display: inline-block;
+    background: darkred;
+    background-size: cover;
+    width: 302px;
+    height: 43px;
+    padding: 20px;
+    margin: 50px;
+}

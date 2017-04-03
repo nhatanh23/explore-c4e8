@@ -1,0 +1,11 @@
+h3 {
+    color: darkred;
+}
+
+.image img {
+    -webkit-transition: all 1s ease;
+}
+
+.image:hover img {
+    -webkit-transform: scale(1.5);
+}
